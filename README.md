@@ -1,5 +1,3 @@
-### Template
-
 ```markdown
 # "Primeiros Passos no Mundo dos Charutos"
 
@@ -9,8 +7,8 @@ Para iniciar nesta jornada de uso das IAs, resolvi explorar um tema diferente, m
 
 ## 🤖 Tecnologias Utilizadas
 ChatGPT para o texto
-Leonardo AI para a criação da capa
-https://www.befunky.com/ para edição de erros de digitação da imagem gerada
+Leonardo AI para a criação da imagem de capa
+fotor.com para edição de erros de digitação da imagem gerada
 
 
 ## 🧐 Processo de Criação
